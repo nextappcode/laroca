@@ -1,6 +1,0 @@
-Activacion:
-Esta versión es de prueba, para activarla siga estos pasos:
-1.- Abrir Microsoft Visual Studio 2010.
-2.- Ir al Menú >> Ayuda >> Registrar Producto.
-3.- Copia el Serial que se incluye y pega, Aceptar y Listo.
-SERIAL: YCFHQ 9DWCY DKV88 T2TMH G7BHP
